@@ -1,0 +1,17 @@
+/*
+	Photon by Estúdio vmaia
+	estudiovmaia.com.br | Todos os direitos reservados.
+	contato@vmaia.com.br
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 14pt;
+	}
+
+/* Header */
+
+	#header {
+		padding: 6em 0 6em 0;
+	}
