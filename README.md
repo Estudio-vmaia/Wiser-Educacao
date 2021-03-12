@@ -1,5 +1,7 @@
 # Wiser-Educacao (Encurtador de URL)
 
+Exemplo Online: https://vmaia.com.br/Wiser-Educacao/
+
 <b>- index.php</b>
   <p>Ao enviar os conteúdos contido nos <b>INPUTs</b>, o <b>AJAX</b> processa o dado e envia para o <b>PHP</b> ecurtar a URL.	
   </p>
