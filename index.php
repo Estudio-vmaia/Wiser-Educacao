@@ -44,7 +44,7 @@
 					Desenvolvido por <a href="http://estudiovmaia.com.br">Renan Maia</a>.</h1>
 					<p></p>
 					<ul class="actions">
-						<li><a href="#one" class="button scrolly">Veja omo funciona</a></li>
+						<li><a href="#one" class="button scrolly">Veja como funciona</a></li>
 					</ul>
 				</div>
 			</section>
